@@ -1,17 +1,16 @@
 # wlmp-project
-Automatically exported from code.google.com/p/wlmp-project
+[Automatically exported from code.google.com/p/wlmp-project]
 
 
 **********************************************************************************************************************
 
-WLMP Project
---- About WLMP Project ---
 
 WLMP is an acronym, which stands for the first letters of Windows / LightTPD / MySQL / PHP.
 
 The purpose of the WLMP Project is to create a LightTPD-based, secure and fast web server package for Windows with MySQL database server and PHP support. The package is being developed by a Hungarian team - WLMP Project TEAM - under the terms of GNU/General Public License. The package is in Hungarian for now, but soon it will be available in English.
 
 We host a closely related project providing unofficial Windows builds for LightTPD, which is essential for the web server package.
+
 --- A WLMP Projectről ---
 
 A WLMP egy mozaikszó, amely a Windows / LightTPD / MySQL / PHP szavak kezdőbetűiből áll össze.
